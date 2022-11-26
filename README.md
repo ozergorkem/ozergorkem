@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @ozergorkem 
+- 👀 I’m interested in ...
+-  Veri bilimi konularıyla 
+- 
+- 🌱 I’m currently learning ...
+- Python, Makine Öğrenme Algoritmaları
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+ozergorkem/ozergorkem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
